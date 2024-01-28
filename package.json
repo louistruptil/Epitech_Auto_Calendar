@@ -1,0 +1,29 @@
+{
+  "name": "epitech_auto_calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louistruptil/Epitech_Auto_Calendar.git"
+  },
+  "keywords": [],
+  "author": "Louis Truptil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louistruptil/Epitech_Auto_Calendar/issues"
+  },
+  "homepage": "https://github.com/louistruptil/Epitech_Auto_Calendar#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "axios": "^1.6.6",
+    "cronofy": "^3.8.1",
+    "epitech.js": "^0.2.4",
+    "google-auth-library": "^6.1.6",
+    "googleapi": "^1.0.2",
+    "googleapis": "^105.0.0"
+  },
+  "description": ""
+}
